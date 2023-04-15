@@ -5,6 +5,6 @@
     "homepage": "",
     "commands": {},
     "dependencies": {
-        "sample_kpm_package": "0.0.1"
+        "sample_kpm_package_2": "0.0.1"
     }
 }
