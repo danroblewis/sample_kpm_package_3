@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "version": "0.0./2",
+    "name": "sample_kpm_package_3",
+    "version": "0.0.2",
     "author": "",
     "homepage": "",
     "commands": {},
     "dependencies": {
-        "sample_kpm_package_2": "0.0.1"
+        "sample_kpm_package_2": "0.0.2"
     }
 }
