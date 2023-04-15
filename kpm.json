@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "version": "0.0./2",
+    "author": "",
+    "homepage": "",
+    "commands": {},
+    "dependencies": {
+        "sample_kpm_package": "0.0.1"
+    }
+}
